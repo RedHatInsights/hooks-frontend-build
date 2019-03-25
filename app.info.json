@@ -1,6 +1,6 @@
 {
   "app_name": "webhooks",
-  "src_hash": "c347f4203dd0be219e0c88c764d7495eacc4ac10",
+  "src_hash": "fdfd248b7ada5ea95854e255470597b684f15ff4",
   "src_tag": "",
   "src_branch": "master",
   "npm_info": {
@@ -381,7 +381,7 @@
 },
   "travis": {
     "event_type": "push",
-    "build_number": "123",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/notifications-frontend/builds/510919231"
+    "build_number": "124",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/notifications-frontend/builds/510921835"
   }
 }
