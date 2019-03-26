@@ -1,6 +1,6 @@
 {
   "app_name": "webhooks",
-  "src_hash": "fdfd248b7ada5ea95854e255470597b684f15ff4",
+  "src_hash": "81cf773bfc1ba47e3e41cef97502ce3d63fc884d",
   "src_tag": "",
   "src_branch": "master",
   "npm_info": {
@@ -222,6 +222,11 @@
       "from": "jest@23.5.0",
       "resolved": "https://registry.npmjs.org/jest/-/jest-23.5.0.tgz"
     },
+    "json-api-normalizer": {
+      "version": "0.4.14",
+      "from": "json-api-normalizer@0.4.14",
+      "resolved": "https://registry.npmjs.org/json-api-normalizer/-/json-api-normalizer-0.4.14.tgz"
+    },
     "lodash": {
       "version": "4.17.11",
       "from": "lodash@4.17.11",
@@ -381,7 +386,7 @@
 },
   "travis": {
     "event_type": "push",
-    "build_number": "124",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/notifications-frontend/builds/510921835"
+    "build_number": "127",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/notifications-frontend/builds/511374981"
   }
 }
