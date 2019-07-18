@@ -1,11 +1,11 @@
 {
   "app_name": "hooks",
-  "src_hash": "11e357ff9ac4c7bbce77a2b5c40c67eee0351414",
+  "src_hash": "08818c234dda43a6558bb1894abec6c5e55106ad",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "346",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/notifications-frontend/builds/556439699"
+    "build_number": "351",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/notifications-frontend/builds/560336547"
   }
 }
